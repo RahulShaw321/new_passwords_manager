@@ -6,6 +6,8 @@ A new Flutter project.
 
 This project is my first app with a backend and a third party state manager river pod 2.0.
 
+## About the app
+
 It lets you store and manage all your social networking accounts and entertainment platform accounts.
 
 
