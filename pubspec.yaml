@@ -38,7 +38,6 @@ dependencies:
   
   flutter_riverpod: ^2.3.2
   image_picker: ^0.8.7
-  intl: 
   lottie: ^2.3.0
 
 dev_dependencies:
